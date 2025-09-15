@@ -213,25 +213,4 @@ Atendimento #1 - 15/09/2025 às 14:30
 - Detalhes de todas as compras realizadas
 - Data, hora e valores de cada transação
 
-## 🚀 Melhorias Futuras Sugeridas
-
-- [ ] **Interface Gráfica**: Migrar para Flutter para interface visual
-- [ ] **Banco de Dados**: Persistência de dados com SQLite
-- [ ] **API REST**: Integração com sistemas externos
-- [ ] **Relatórios Avançados**: Gráficos e análises detalhadas
-- [ ] **Sistema de Fidelidade**: Programa de pontos para clientes
-- [ ] **Agendamento Online**: Sistema de reservas para serviços
-- [ ] **Notificações**: Alertas por email/SMS
-- [ ] **Multi-idiomas**: Suporte a diferentes idiomas
-
-## 🤝 Contribuidores
-
-Este projeto foi desenvolvido como parte do curso técnico, seguindo as especificações técnicas fornecidas e implementando as melhores práticas de engenharia de software.
-
-## 📝 Licença
-
-Este projeto foi desenvolvido para fins educacionais como parte do curso técnico.
-
----
-
 **🐾 Cuidapet - Cuidando do seu pet com amor e tecnologia! ❤️**
